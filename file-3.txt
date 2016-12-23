@@ -1,8 +1,9 @@
 This is a file 3
 
-
 1) Change 1
 2) Change 2
 3) Change 3
 
 a) Change 4 by feature b
+
+- change #1 by feature a
