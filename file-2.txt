@@ -1,3 +1,6 @@
 This is a file 2
 
 - change by feature a
+
+1) Change 1
+2) Change 2 by feature b
